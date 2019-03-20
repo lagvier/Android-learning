@@ -18,4 +18,4 @@
   * __Test with your Device__:
 
 - [x] Access __.apk__ of your app
-  * Navigate to the _AndroidStudioProjects_ > _MyFirstApp_ > _App_ > _Build_ > _outputs_ > _apk_
+  * Get the __app_debug.apk__ From: _AndroidStudioProjects_ > _MyFirstApp_ > _App_ > _Build_ > _outputs_ > _apk_
