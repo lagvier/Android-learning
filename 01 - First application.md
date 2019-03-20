@@ -7,7 +7,12 @@
   * __Activity__: Select _Empty activity_ and click _Next_
   * __Customize activity__: Leave the default settings and click _Finish_
   * __Create Virtual Device__:
-     - Click on AVD Manager icon and click _Create Virtual Device_
+     - Click on AVD Manager icon and click _Create Virtual Device_ (You can cl
+     - Choose a device and click _Next_
+     - Choose version and click _Next_
+     - Leave the AVD name default information and click _Finish_
+  * __Launch Virtual Device__:
+     - Click on AVD Manager icon and click _Create Virtual Device_ (You can cl
      - Choose a device and click _Next_
      - Choose version and click _Next_
      - Leave the AVD name default information and click _Finish_
