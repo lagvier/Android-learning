@@ -13,7 +13,7 @@
      - Leave the AVD name default information and click _Finish_
   * __Launch Virtual Device__:
      - Click on run app (green button) on the toolbar tap
-  * __Test with your device__:
-    - 
-- [ ] Access __.apk__ of your app
- * Navigate to the _AndroidStudioProjects > MyFirstApp > App > Build > outputs > apk _
+  * __Test with your Device__:
+
+- [x] Access __.apk__ of your app
+  * Navigate to the _AndroidStudioProjects > MyFirstApp > App > Build > outputs > apk _
