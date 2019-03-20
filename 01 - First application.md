@@ -11,8 +11,10 @@
      - Choose a device and click _Next_
      - Choose version and click _Next_
      - Leave the AVD name default information and click _Finish_
+     
   * __Launch Virtual Device__:
      - Click on run app (green button) on the toolbar tap
+     
   * __Test with your Device__:
 
 - [x] Access __.apk__ of your app
