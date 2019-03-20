@@ -12,7 +12,8 @@
      - Choose version and click _Next_
      - Leave the AVD name default information and click _Finish_
   * __Launch Virtual Device__:
-     - Click on AVD Manager icon and click _Create Virtual Device_ (You can cl
-     - Choose a device and click _Next_
-     - Choose version and click _Next_
-     - Leave the AVD name default information and click _Finish_
+     - Click on run app (green button) on the toolbar tap
+  * __Test with your device__:
+    - 
+- [ ] Access __.apk__ of your app
+ * Navigate to the _AndroidStudioProjects > MyFirstApp > App > Build > outputs > apk _
