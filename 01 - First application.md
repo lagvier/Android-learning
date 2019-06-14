@@ -30,6 +30,9 @@
      
   * __Test with your Device__:
 
+- [ ] App Layout
+
+
 - [ ] Properties information
  * __ID__: IDs should be named by the format objecttype_information eg text_value represents an id for a text field called _text_
  * __Layouts(heigh/width)__: wrap_content (the size of the object depends on the size of the label), _match_parent_ (use the whole size of the current screen section*)
