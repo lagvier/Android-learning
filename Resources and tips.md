@@ -1,3 +1,5 @@
+#### Install apk on android studio
+
 First ensure that the ADB (```C:\Users\<user\>\AppData\Local\Android\Sdk\platform-tools```) 
 has been added to environment variables 
 
