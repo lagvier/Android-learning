@@ -1,3 +1,6 @@
-1. Start the Emulator
+First ensure that the ADB (```C:\Users\<user\>\AppData\Local\Android\Sdk\platform-tools```) 
+has been added to environment variables 
 
-2. 
+1. Start the Emulator
+2. From the directory containing the project, install it using the command line ```adb install \<project_name.apk\>'``` and wait for it to complete
+3. Your project should be now visible on the Emulator
