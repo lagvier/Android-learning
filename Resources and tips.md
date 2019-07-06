@@ -8,3 +8,5 @@ has been added to environment variables
 3. Your project should be now visible on the Emulator
 
 #### [Materials and design guide](http://www.google.com/design/spec/style/typography.html#typography-styles)
+
+#### [HEX Colors](https://www.w3schools.com/colors/colors_hex.asp)
