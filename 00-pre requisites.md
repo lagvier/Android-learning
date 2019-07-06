@@ -1,0 +1,3 @@
+- [x] Install the Android studio
+   - Download [AndroidStudio](https://developer.android.com/)
+   - Install the application by following the installation propmpts
