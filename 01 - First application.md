@@ -1,7 +1,3 @@
-- [x] Install the Android studio
-   - Download [AndroidStudio](https://developer.android.com/)
-   - Install the application by following the installation propmpts
-
 - [ ] Java fundamentals
   * Java applications have structure sample below and just like C/C++ programs the _main ()_ routine is the first to be executed. The files must be saved with with the convention _classname.java_ such that the sample program below should be saved as _HelloWorld.java_
       ``` 
